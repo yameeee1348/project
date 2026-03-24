@@ -1,0 +1,24 @@
+# Vivado temporary files
+*.log
+*.jou
+*.str
+*.txt
+.Xil/
+.cache/
+
+# Vivado Project files
+*.tmp
+*.hw
+*.sim
+*.runs
+*.ip_user_files/
+
+# Backup files
+*.bak
+
+# Waveform data
+*.vcd
+*.wdb
+
+# vscode c compiler
+.vscode/
